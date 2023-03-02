@@ -1,0 +1,24 @@
+languageCode = "zh"
+languageName = "Chinese"
+displayName = "ZH"
+isoCode = "zh"
+weight = 1
+rtl = false
+
+title = "得闲饮茶"
+logo = "img/blowfish_logo_transparent.png"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2006-02-12"
+
+[author]
+  name = "VC"
+  image = "img/author.jpg"
+  headline = "茶入清水,化青莲浮萍,世人品味清水,却忽略了茶的寂寥,或许喝茶永远喝的是一杯清水而已。"
+  bio = "茶入清水,化青莲浮萍,世人品味清水,却忽略了茶的寂寥,或许喝茶永远喝的是一杯清水而已。"
+  links = [
+    # { twitter = "https://twitter.com/burufugu" },
+    # { mastodon = "https://masto.ai/@blowfish" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
