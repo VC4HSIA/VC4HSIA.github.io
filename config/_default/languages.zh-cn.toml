@@ -1,0 +1,29 @@
+languageCode = "zh-cn"
+languageName = "Chinese"
+displayName = "CN"
+isoCode = "zh-CN"
+weight = 1
+rtl = false
+
+# 网站logo
+logo = "img/logo.png"
+# 网站标题
+title = "得闲饮茶"
+# 网站描述
+description = "这是我的个人博客"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2006-02-12"
+
+[author]
+  image = "img/author.jpg"
+  name = "VC"
+  # 文章底下的个性签名
+  bio = "茶入清水,化青莲浮萍,世人品味清水,却忽略了茶的寂寥,或许喝茶永远喝的是一杯清水而已。"
+  # profile hero  background  首页界面展示
+  headline = "茶入清水,化青莲浮萍,世人品味清水,却忽略了茶的寂寥,或许喝茶永远喝的是一杯清水而已。"
+  links = [
+    # { twitter = "https://twitter.com/burufugu" },
+    # { mastodon = "https://masto.ai/@blowfish" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]

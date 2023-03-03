@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://vincent3hsia.top/~vincent3hsia/"
-defaultContentLanguage = "zh"
+defaultContentLanguage = "zh-cn"
 
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -15,11 +15,11 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
-timeout = "60s"
+# timeout = "60s"
 
 googleAnalytics = "G-PEDMYR1V0K"
 
-ignoreErrors = ["error-remote-getjson"]
+# ignoreErrors = ["error-remote-getjson"]
 
 [imaging]
   anchor = 'Center'
