@@ -5,7 +5,8 @@ title: "{{ replace .Name "-" " " | title }}"
 tags: ["文章","未分类"]
 # externalUrl: ""
 # showSummary: true
-date: {{ .Date | time.Format "2006-02-23" }}
+# date: {{ .Date }}
+date: {{ .Date | time.Format "2006-01-02" }}
 draft: false
 ---
 

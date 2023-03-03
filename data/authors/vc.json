@@ -1,0 +1,8 @@
+{
+    "name": "VC",
+    "image" : "img/author.jpg",
+    "bio": "Website Builder",
+    "social": [
+        { "github": "https://github.com/Vincent3Hsia" }
+    ]
+}

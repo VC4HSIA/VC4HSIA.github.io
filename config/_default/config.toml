@@ -17,7 +17,7 @@ buildFuture = false
 
 # timeout = "60s"
 
-googleAnalytics = "G-PEDMYR1V0K"
+# googleAnalytics = "G-PEDMYR1V0K"
 
 # ignoreErrors = ["error-remote-getjson"]
 

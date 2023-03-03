@@ -1,60 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to My Blog! :tada: on 得闲饮茶</title>
+    <title>Welcome to My Blog! :tada: on 异度空间</title>
     <link>https://vincent3hsia.top/~vincent3hsia/</link>
-    <description>Recent content in Welcome to My Blog! :tada: on 得闲饮茶</description>
+    <description>Recent content in Welcome to My Blog! :tada: on 异度空间</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vincent3hsia.top/~vincent3hsia/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vincent3hsia.top/~vincent3hsia/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://vincent3hsia.top/~vincent3hsia/posts/post-lite-one/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>GO的IO</title>
+      <link>https://vincent3hsia.top/~vincent3hsia/programs/go/io/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent3hsia.top/~vincent3hsia/posts/post-lite-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vincent3hsia.top/~vincent3hsia/posts/post-lite-one/cover.png" />
+      <guid>https://vincent3hsia.top/~vincent3hsia/programs/go/io/</guid>
+      <description>今天学Go的IO</description>
+      
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://vincent3hsia.top/~vincent3hsia/posts/post-lite-three/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Java的JVM</title>
+      <link>https://vincent3hsia.top/~vincent3hsia/programs/java/jvm/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent3hsia.top/~vincent3hsia/posts/post-lite-three/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vincent3hsia.top/~vincent3hsia/posts/post-lite-three/cover.png" />
+      <guid>https://vincent3hsia.top/~vincent3hsia/programs/java/jvm/</guid>
+      <description>今天学Java的JVM</description>
+      
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://vincent3hsia.top/~vincent3hsia/posts/post-lite-two/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Vue的route</title>
+      <link>https://vincent3hsia.top/~vincent3hsia/programs/web/vue/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent3hsia.top/~vincent3hsia/posts/post-lite-two/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vincent3hsia.top/~vincent3hsia/posts/post-lite-two/cover.png" />
+      <guid>https://vincent3hsia.top/~vincent3hsia/programs/web/vue/</guid>
+      <description>今天学了路由</description>
+      
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://vincent3hsia.top/~vincent3hsia/posts/post-lite-four/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      <title>Hello World</title>
+      <link>https://vincent3hsia.top/~vincent3hsia/posts/first-post/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent3hsia.top/~vincent3hsia/posts/post-lite-four/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vincent3hsia.top/~vincent3hsia/posts/post-lite-four/cover.png" />
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vincent3hsia.top/~vincent3hsia/posts/1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincent3hsia.top/~vincent3hsia/posts/1/</guid>
-      <description></description>
-      
+      <guid>https://vincent3hsia.top/~vincent3hsia/posts/first-post/</guid>
+      <description>我出生了</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vincent3hsia.top/~vincent3hsia/posts/first-post/cover.png" />
     </item>
     
   </channel>

@@ -6,24 +6,24 @@ weight = 1
 rtl = false
 
 # 网站logo
-logo = "img/logo.png"
+# logo = "img/avatar.png"
 # 网站标题
-title = "得闲饮茶"
+title = "异度空间"
 # 网站描述
-description = "这是我的个人博客"
+description = "It's Inner Senses"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2006-02-12"
+dateFormat = "2006-01-02"
 
 [author]
-  image = "img/author.jpg"
-  name = "VC"
+  image = "img/logo.png" # "img/author.jpg"
+  name = "Vincent⚡Hsia"
   # 文章底下的个性签名
-  bio = "茶入清水,化青莲浮萍,世人品味清水,却忽略了茶的寂寥,或许喝茶永远喝的是一杯清水而已。"
+  bio = "\"自己\"<br/>这个东西是看不见的,撞上一些别的什么,反弹回来,才会了解自己。<br/>所以，跟很强的东西、可怕的东西、水准很高的东西去碰撞，然后才知道自己是什么，这才是自我。<br/><span style=\"float:right;\"> ------ 山本耀司</span>"
   # profile hero  background  首页界面展示
-  headline = "茶入清水,化青莲浮萍,世人品味清水,却忽略了茶的寂寥,或许喝茶永远喝的是一杯清水而已。"
+  headline = "\"自己\"<br/>这个东西是看不见的,撞上一些别的什么,反弹回来,才会了解自己。<br/>所以，跟很强的东西、可怕的东西、水准很高的东西去碰撞，然后才知道自己是什么，这才是自我。<br/><span style=\"float:right;\"> ------ 山本耀司</span>"
   links = [
     # { twitter = "https://twitter.com/burufugu" },
     # { mastodon = "https://masto.ai/@blowfish" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://github.com/Vincent3Hsia" },
   ]
