@@ -1,8 +1,8 @@
 ---
 title: "Java的xxxxxxx"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
-categories: ["Post","Blog",]
-tags: ["post","lorem","ipsum"]
+# categories: ["Post","Blog",]
+tags: ["文章","学习"]
 #externalUrl: ""
 #showSummary: true
 date: 2022-09-04
