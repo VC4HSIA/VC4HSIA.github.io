@@ -17,7 +17,8 @@ dateFormat = "2006-01-02"
 
 [author]
   image = "img/logo.png" # "img/author.jpg"
-  name = "Vincent⚡Hsia"
+  # 作者名⚡
+  name = "Vincent Hsia"
   # 文章底下的个性签名
   bio = "\"自己\"<br/>这个东西是看不见的,撞上一些别的什么,反弹回来,才会了解自己。<br/>所以，跟很强的东西、可怕的东西、水准很高的东西去碰撞，然后才知道自己是什么，这才是自我。<br/><span style=\"float:right;\"> ------ 山本耀司</span>"
   # profile hero  background  首页界面展示
