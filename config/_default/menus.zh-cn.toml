@@ -57,10 +57,38 @@
   pageRef = "tags"
   weight = 40
 
-# [[main]]
-#   name = "Users"
-#   pageRef = "users"
-#   weight = 50
+
+
+
+
+
+
+[[main]]
+  name = "NAS"
+  pageRef = "nas"
+  weight = 50
+
+[[main]]
+  name = "DSM"
+  parent = "NAS"
+  url = "https://vincent3hsia.top:5001/"
+  weight = 10
+
+[[main]]
+  name = "Video"
+  parent = "NAS"
+  url = "https://vincent3hsia.top/video/"
+  weight = 20
+
+[[main]]
+  name = "Photo"
+  parent = "NAS"
+  url = "https://vincent3hsia.top/photo/"
+  weight = 30
+
+
+
+
 
 # [[main]]
 #   name = "Merch"

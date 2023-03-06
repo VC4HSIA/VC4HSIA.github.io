@@ -17,9 +17,9 @@ sharingLinks : false
 ---
 
 
-{{< lead >}}
-光 与 影
-{{< /lead >}}
+<!-- {{< lead >}}
+手持<code id="layout">FuJi</code>一心想买索尼
+{{< /lead >}} -->
 
 以下是我的[摄影]({{< ref "photos" >}})作品<br/>都是一些有感而拍的相片
 

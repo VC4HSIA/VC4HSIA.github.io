@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to My Blog! :tada: on 异度空间</title>
-    <link>https://vincent3hsia.top/~vincent3hsia/</link>
+    <link>https://vincent3hsia.top/</link>
     <description>Recent content in Welcome to My Blog! :tada: on 异度空间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vincent3hsia.top/~vincent3hsia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vincent3hsia.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GO的IO</title>
-      <link>https://vincent3hsia.top/~vincent3hsia/programs/go/io/</link>
+      <link>https://vincent3hsia.top/programs/go/io/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent3hsia.top/~vincent3hsia/programs/go/io/</guid>
+      <guid>https://vincent3hsia.top/programs/go/io/</guid>
       <description>今天学Go的IO</description>
       
     </item>
     
     <item>
       <title>Java的JVM</title>
-      <link>https://vincent3hsia.top/~vincent3hsia/programs/java/jvm/</link>
+      <link>https://vincent3hsia.top/programs/java/jvm/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent3hsia.top/~vincent3hsia/programs/java/jvm/</guid>
+      <guid>https://vincent3hsia.top/programs/java/jvm/</guid>
       <description>今天学Java的JVM</description>
       
     </item>
     
     <item>
       <title>Vue的route</title>
-      <link>https://vincent3hsia.top/~vincent3hsia/programs/web/vue/</link>
+      <link>https://vincent3hsia.top/programs/web/vue/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent3hsia.top/~vincent3hsia/programs/web/vue/</guid>
+      <guid>https://vincent3hsia.top/programs/web/vue/</guid>
       <description>今天学了路由</description>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://vincent3hsia.top/~vincent3hsia/posts/first-post/</link>
+      <link>https://vincent3hsia.top/posts/first-post/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent3hsia.top/~vincent3hsia/posts/first-post/</guid>
+      <guid>https://vincent3hsia.top/posts/first-post/</guid>
       <description>我出生了</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vincent3hsia.top/~vincent3hsia/posts/first-post/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vincent3hsia.top/posts/first-post/cover.png" />
     </item>
     
   </channel>
