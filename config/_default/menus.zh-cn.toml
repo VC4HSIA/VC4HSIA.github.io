@@ -66,25 +66,26 @@
 [[main]]
   name = "NAS"
   pageRef = "nas"
+    url = "https://vincent3hsia.top:5001/"
   weight = 50
 
-[[main]]
-  name = "DSM"
-  parent = "NAS"
-  url = "https://vincent3hsia.top:5001/"
-  weight = 10
+# [[main]]
+#   name = "DSM"
+#   parent = "NAS"
+#   url = "https://vincent3hsia.top:5001/"
+#   weight = 10
 
-[[main]]
-  name = "Video"
-  parent = "NAS"
-  url = "https://vincent3hsia.top/video/"
-  weight = 20
+# [[main]]
+#   name = "Video"
+#   parent = "NAS"
+#   url = "https://vincent3hsia.top:8443/video/"
+#   weight = 20
 
-[[main]]
-  name = "Photo"
-  parent = "NAS"
-  url = "https://vincent3hsia.top/photo/"
-  weight = 30
+# [[main]]
+#   name = "Photo"
+#   parent = "NAS"
+#   url = "https://vincent3hsia.top:8443/photo/"
+#   weight = 30
 
 
 
